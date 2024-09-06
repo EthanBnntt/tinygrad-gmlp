@@ -18,3 +18,7 @@ pip install gmlp_tinygrad
 ```bash
 from gmlp_tinygrad import gMLP
 ```
+
+## Citations
+
+Liu, H., Dai, Z., So, D. R., & Le, Q. V. (2021). Pay Attention to MLPs (Version 2). arXiv. https://doi.org/10.48550/ARXIV.2105.08050
