@@ -1,6 +1,6 @@
 [project]
 name = "gmlp_tinygrad"
-version = "0.9.0"
+version = "0.9.2"
 authors = [
   { name="Ethan Bennett" },
 ]
@@ -12,7 +12,3 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
-
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
