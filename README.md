@@ -1,6 +1,6 @@
 # Gated MLPs (gMLP) Implementation in Tinygrad
 
-An implementation of gated MLPs in tinygrad, as an alternative to transformers.
+An implementation of gated MLPs in tinygrad, as an alternative to transformers: gMLP Tinygrad.
 
 ## What is a gMLP?
 
