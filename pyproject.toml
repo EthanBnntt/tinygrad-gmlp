@@ -1,0 +1,18 @@
+[project]
+name = "gmlp_tinygrad"
+version = "0.9.0"
+authors = [
+  { name="Ethan Bennett" },
+]
+description = "An implementation of gated MLPs in tinygrad, as an alternative to transformers."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
